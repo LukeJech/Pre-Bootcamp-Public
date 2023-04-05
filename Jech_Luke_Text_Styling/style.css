@@ -1,0 +1,26 @@
+h1 {
+    background-color: black;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+h1 span {
+    color: aqua;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    background-color: rgb(25, 216, 216);
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+    font-size: 25px;
+}
